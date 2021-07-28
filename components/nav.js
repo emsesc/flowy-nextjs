@@ -1,5 +1,3 @@
-import styles from './nav.module.css'
-
 export default function Nav({ title, repoName }) {
 
     return (

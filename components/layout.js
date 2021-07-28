@@ -26,8 +26,6 @@ export default function Layout({ children, home }) {
 
       <Navbar title="Ganning is poop" repoName="ganning157/poop"></Navbar>
       <Steps></Steps>
-      <div id="canvas">
-      </div>
     </div>
   )
 }
